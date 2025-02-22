@@ -1,7 +1,8 @@
 # NHS Patient, Service, and Twitter Data Analysis
 
-- Disclaimer: I completed the following project as part of the LSE Data Analytics Career Accelearator Course (April 2024 - November 2024)
-- Grade 82%
+🔦 *Disclaimer: I completed the following project as part of the LSE Data Analytics Career Accelearator Course (April 2024 - November 2024)*
+
+🔖 Grade 82%
 
 ![NHS](https://github.com/user-attachments/assets/61cab10c-e8ca-4234-9487-b312853b0fa5)
 
