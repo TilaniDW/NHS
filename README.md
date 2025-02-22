@@ -9,7 +9,7 @@
 
 
 
-## Business Question: Can NHS GP services achieve their patient-focused and financial goals by better utilising existing resources?
+## Can NHS GP services achieve their patient-focused and financial goals by better utilising existing resources?
 
 For my second project, I had the opportunity to work with real-world NHS data, a fascinating challenge that involved analysing three structured datasets on patient appointments and service performance, along with a dataset of NHS-related tweets scraped from X (formerly known as Twitter). The goal was to explore how general practitioner (GP) surgeries and other healthcare services could optimise resources to balance patient care with financial sustainability.
 
