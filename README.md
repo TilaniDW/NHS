@@ -4,10 +4,7 @@
 
 🔖 Grade 82%
 
-![NHS](https://github.com/user-attachments/assets/61cab10c-e8ca-4234-9487-b312853b0fa5)
-
-
-
+![NHS](Images/NHS-banner.png)
 
 ## Can NHS GP services achieve their patient-focused and financial goals by better utilising existing resources?
 
